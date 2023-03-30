@@ -48,4 +48,4 @@ lexoffice_connector/
 ├── __init__.py
 ├── __manifest__.py
 └── README.md
-´´´
+```
