@@ -27,3 +27,23 @@ Simplify-ERP™, PowerOn™
 ## Website
 
 https://simplify-erp.de
+
+lexoffice_connector/
+├── controllers/
+│   └── __init__.py
+├── models/
+│   ├── __init__.py
+│   ├── lexoffice_contact.py
+│   ├── lexoffice_product.py
+│   ├── lexoffice_order.py
+│   └── lexoffice_invoice.py
+├── views/
+│   ├── lexoffice_contact_views.xml
+│   ├── lexoffice_product_views.xml
+│   ├── lexoffice_order_views.xml
+│   └── lexoffice_invoice_views.xml
+├── data/
+│   └── scheduled_actions.xml
+├── __init__.py
+├── __manifest__.py
+└── README.md
