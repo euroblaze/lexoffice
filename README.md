@@ -28,6 +28,7 @@ Simplify-ERP™, PowerOn™
 
 https://simplify-erp.de
 
+´´´
 lexoffice_connector/
 ├── controllers/
 │   └── __init__.py
@@ -47,3 +48,4 @@ lexoffice_connector/
 ├── __init__.py
 ├── __manifest__.py
 └── README.md
+´´´
